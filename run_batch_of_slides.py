@@ -62,7 +62,7 @@ def parse_arguments():
                                  'resnet50', 'gigapath', 'virchow', 'virchow2', 
                                  'hoptimus0', 'hoptimus1', 'phikon_v2', 'conch_v15', 'musk', 'hibou_l',
                                  'kaiko-vits8', 'kaiko-vits16', 'kaiko-vitb8', 'kaiko-vitb16',
-                                 'kaiko-vitl14', 'lunit-vits8'],
+                                 'kaiko-vitl14', 'lunit-vits8', 'trace_base'],
                         help='Patch encoder to use')
     parser.add_argument('--slide_encoder', type=str, default=None, 
                         choices=['threads', 'titan', 'prism', 'gigapath', 'chief', 'madeleine',
