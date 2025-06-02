@@ -208,20 +208,13 @@ This work was funded by NIH NIGMS [R35GM138216](https://reporter.nih.gov/search/
 If you find our work useful in your research or if you use parts of this code, please consider citing our papers:
 
 ```
-@article{zhang2025standardizing,
-  title={Accelerating Data Processing and Benchmarking of AI Models for Pathology},
-  author={Zhang, Andrew and Jaume, Guillaume and Vaidya, Anurag and Ding, Tong and Mahmood, Faisal},
-  journal={arXiv preprint arXiv:2502.06750},
-  year={2025}
+@article{shaban2024foundation,
+  title        = {A Foundation Model for Multiplex Spatial Proteomics},
+  author       = {Muhammad Shaban and Yuzhou Chang and Huaying Qiu and Yao Yu Yeo and Andrew H. Song and Guillaume Jaume and Yuchen Wang and Luca L. Weishaupt and Tong Ding and Anurag Vaidya and Abdallah Lamane and Daniel Shao and Mohammed Zidane and Yunhao Bai and Paige McCallum and Shuli Luo and Wenrui Wu and Yang Wang and Precious Cramer and Chi Ngai Chan and Pierre Stephan and Johanna Schaffenrath and Jia Le Lee and Hendrik A Michel and Caiwei Tian and Cristina Almagro-Perez and Sophia J. Wagner and Sharifa Sahai and Ming Y. Lu and Richard J. Chen and Andrew Zhang and Mark Edward M Gonzales and Ahmad Makky and Joey Lee and Hao Cheng and Maximilian Haist and Darci Phillips and Yuqi Tan and Garry P Nolan and W. Richard Burack and Jacob D Estes and Jonathan T.C. Liu and Toni K Choueiri and Neeraj Agarwal and Marc Barry and Scott J Rodig and Long Phi Le and Georg Gerber and Christian M. Schürch and Fabian J. Theis and Youn H Kim and Joe Yeong and Sabina Signoretti and Brooke Howitt and Lit-Hsin Loo and Qin Ma and Sizun Jiang and Faisal Mahmood},
+  year         = {2024},
+  note         = {Preprint},
+  howpublished = {\url{https://arxiv.org/abs/XXXX.XXXXX}},
 }
-
-@article{vaidya2025molecular,
-  title={Molecular-driven Foundation Model for Oncologic Pathology},
-  author={Vaidya, Anurag and Zhang, Andrew and Jaume, Guillaume and Song, Andrew H and Ding, Tong and Wagner, Sophia J and Lu, Ming Y and Doucet, Paul and Robertson, Harry and Almagro-Perez, Cristina and others},
-  journal={arXiv preprint arXiv:2501.16652},
-  year={2025}
-}
-
 ```
 
 <img src="_readme/joint_logo.png"> 
